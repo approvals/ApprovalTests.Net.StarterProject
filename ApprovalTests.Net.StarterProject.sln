@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApprovalTests.Net.StarterProject", "ApprovalTests.Net.StarterProject\ApprovalTests.Net.StarterProject.csproj", "{5D1E7590-D4EC-4D57-B990-1DE4931D627E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApprovalTests.Net.StarterProject.Test", "ApprovalTests.Net.StarterProject\ApprovalTests.Net.StarterProject.Test.csproj", "{5D1E7590-D4EC-4D57-B990-1DE4931D627E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
